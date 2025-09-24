@@ -1,4 +1,5 @@
 # ESP32 Resources
+<a href="https://example.com" target="_blank">Open in New Tab</a>
 ## Memory
  - ESP32 Programmers’ Memory Model [https://developer.espressif.com/blog/esp32-programmers-memory-model/]
  - ESP32 Memory Organization [https://deepwiki.com/evilbinary/esp32-hello/2.2-memory-organization]
