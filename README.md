@@ -21,9 +21,13 @@
  - ### Interesting readings
    - [How to Make and Test a Better DAC With ESP32](https://www.instructables.com/How-to-Make-and-Test-a-Better-DAC-With-ESP32/)
 ## I2S Protocol
-   - [I2S Protocol : Working, Differences & Its Applications](https://www.elprocus.com/i2s-protocol/)
-   - [Inter-IC Sound (I2S)](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/i2s.html)
-   - [ESP32 - Intro to I2S Episode 1, explanation with basic example outputting a square wave](https://youtu.be/GFg1ve9tcSE?si=WwlHGD37OVdCMfAy)
+ - [I2S Protocol : Working, Differences & Its Applications](https://www.elprocus.com/i2s-protocol/)
+ - [Inter-IC Sound (I2S)](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/i2s.html)
+ - [ESP32 - Intro to I2S Episode 1, explanation with basic example outputting a square wave](https://youtu.be/GFg1ve9tcSE?si=WwlHGD37OVdCMfAy)
+ - [Chapter 138: I2S Audio Interface of ESP32](https://circuitlabs.net/i2s-audio-interface-of-esp32/)
+ - [Master Efficient ADC Data Collection with ESP32 DMA and I2S | The Complete Guide](https://saludpcb.com/adc-collection-esp32-dma-i2s-complete-guide/)
+## DMA
+ - [Chapter 244: Advanced DMA Operations in ESP32](https://circuitlabs.net/advanced-dma-operations-in-esp32/)
 ## Audio
  - Digital Audio Basics
    - [Digital audio basics: audio sample rate and bit depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
